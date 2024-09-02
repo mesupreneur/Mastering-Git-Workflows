@@ -17,3 +17,12 @@ git status
 File Status Life Cycle
 Untracked, Unmodified, Modified, Staged
 
+Basic Commands
+add - adds new or changed files in your working directory to the Git Staging Area
+git add (file name)
+
+commit - It is the record of change
+git commit -m "Some message"
+
+push - Upload local repo content to remote repo
+git push origin main
